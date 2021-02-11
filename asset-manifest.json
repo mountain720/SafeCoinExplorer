@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/explorer/static/css/main.9b4637f5.chunk.css",
+    "main.js": "/explorer/static/js/main.916ce946.chunk.js",
+    "main.js.map": "/explorer/static/js/main.916ce946.chunk.js.map",
+    "runtime-main.js": "/explorer/static/js/runtime-main.bd73cef4.js",
+    "runtime-main.js.map": "/explorer/static/js/runtime-main.bd73cef4.js.map",
+    "static/js/2.7570fa85.chunk.js": "/explorer/static/js/2.7570fa85.chunk.js",
+    "static/js/2.7570fa85.chunk.js.map": "/explorer/static/js/2.7570fa85.chunk.js.map",
+    "index.html": "/explorer/index.html",
+    "static/css/main.9b4637f5.chunk.css.map": "/explorer/static/css/main.9b4637f5.chunk.css.map",
+    "static/js/2.7570fa85.chunk.js.LICENSE.txt": "/explorer/static/js/2.7570fa85.chunk.js.LICENSE.txt",
+    "static/media/theme-dark.scss": "/explorer/static/media/sidebar-cover.37a4e4cf.jpg",
+    "static/media/dark-explorer-logo.14256b30.svg": "/explorer/static/media/dark-explorer-logo.14256b30.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd73cef4.js",
+    "static/js/2.7570fa85.chunk.js",
+    "static/css/main.9b4637f5.chunk.css",
+    "static/js/main.916ce946.chunk.js"
+  ]
+}
